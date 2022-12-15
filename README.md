@@ -1,2 +1,2 @@
-# IBM-RFT-GitHub-Action
-This is a gitHub Action workflow for RFT
+# devopsauto-functest-actions
+This is a gitHub Action workflow for IBM DevOps Automation Functional Tester
